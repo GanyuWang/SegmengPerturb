@@ -1,0 +1,81 @@
+Call 911 parameter
+
+---------------------
+
+
+TDI.wav
+turn on airplane mode
+use google
+\unknown
+RPG.wav
+
+use google
+_TS.wav
+turn on airplane mode
+use google
+HFA.wav
+turn on airplane mode
+
+-----------------
+\unknown
+TDI.wav
+
+use google
+\unknown
+RPG.wav
+
+use google
+_TS.wav
+open the door
+use google
+HFA.wav
+open the door
+
+---------------------
+\unknown
+TDI.wav
+
+use google
+\unknown
+RPG.wav
+
+use google
+\unknown
+_TS.wav
+
+use google
+\unknown
+HFA.wav
+------------------------
+
+use google
+TDI.wav
+turn on the light
+use google
+RPG.wav
+the light
+use google
+_TS.wav
+turn on the light
+use google
+HFA.wav
+turn on the light
+
+-------------------------
+
+TDI.wav
+turn on mifi
+use google
+RPG.wav
+turn on wifi
+use google
+_TS.wav
+turn on wifi
+use google
+HFA.wav
+turn on wifi
+
+----------------------------
+
+
+
